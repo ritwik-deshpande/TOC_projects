@@ -1,0 +1,7 @@
+d(a,1,Z)->(a,XZ)
+d(a,1,X)->(a,XX)
+d(a,0,X)->(b,X)
+d(a,e,Z)->(a,e)
+d(a,e,X)->(a,X)
+d(b,1,X)->(b,e)
+d(b,0,Z)->(a,Z)
